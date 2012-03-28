@@ -1,0 +1,5 @@
+#External Dependencies
+#Wed Mar 28 12:42:19 CDT 2012
+/Users/readman/Desktop/lift_basic/project/boot/scala-2.7.7/lib/scala-library.jar=LiftProject.scala
+/System/Library/Java/JavaVirtualMachines/1.6.0.jdk/Contents/Classes/classes.jar=LiftProject.scala
+/Users/readman/Desktop/lift_basic/project/boot/scala-2.7.7/org.scala-tools.sbt/sbt/0.7.5/sbt_2.7.7-0.7.5.jar=LiftProject.scala

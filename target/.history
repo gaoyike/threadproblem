@@ -1,0 +1,30 @@
+update
+jetty-run
+jetty-stop
+update
+jetty-run
+jetty-stop
+idea
+resolvers += "sbt-idea-repo" at "http://mpeltonen.github.com/maven/"
+addSbtPlugin("com.github.mpeltonen" % "sbt-idea" % "1.0.0")
+sbt
+idea
+*sbtIdeaRepo at http://mpeltonen.github.com/maven/
+ *idea is com.github.mpeltonen sbt-idea-processor 0.4.0
+update
+idea
+jetty-run
+jetty-restary
+jetty-restart
+exit
+jetty-run
+update
+compile 
+update
+compile 
+jetty-run
+jety
+jetty
+jetty-stop
+it
+exit

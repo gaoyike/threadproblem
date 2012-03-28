@@ -1,0 +1,11 @@
+#External Dependencies
+#Wed Mar 28 12:42:22 CDT 2012
+/Users/readman/Desktop/lift_basic/lib_managed/scala_2.9.0-1/compile/lift-common_2.9.0-1-2.4.jar=src/main/scala/bootstrap/liftweb/Boot.scala\:src/main/scala/code/model/User.scala\:src/main/scala/code/snippet/HelloWorld.scala
+/Users/readman/Desktop/lift_basic/lib_managed/scala_2.9.0-1/compile/lift-webkit_2.9.0-1-2.4.jar=src/main/scala/bootstrap/liftweb/Boot.scala\:src/main/scala/code/lib/DependencyFactory.scala
+/Users/readman/Desktop/lift_basic/lib_managed/scala_2.9.0-1/compile/lift-db_2.9.0-1-2.4.jar=src/main/scala/bootstrap/liftweb/Boot.scala
+/Users/readman/Desktop/lift_basic/project/boot/scala-2.9.0-1/lib/scala-compiler.jar=src/main/scala/code/snippet/HelloWorld.scala
+/Users/readman/Desktop/lift_basic/lib_managed/scala_2.9.0-1/compile/lift-util_2.9.0-1-2.4.jar=src/main/scala/bootstrap/liftweb/Boot.scala\:src/main/scala/code/model/User.scala\:src/main/scala/code/lib/DependencyFactory.scala\:src/main/scala/code/snippet/HelloWorld.scala
+/Users/readman/Desktop/lift_basic/lib_managed/scala_2.9.0-1/compile/lift-mapper_2.9.0-1-2.4.jar=src/main/scala/bootstrap/liftweb/Boot.scala\:src/main/scala/code/model/User.scala
+/Users/readman/Desktop/lift_basic/project/boot/scala-2.9.0-1/lib/scala-library.jar=src/main/scala/bootstrap/liftweb/Boot.scala\:src/main/scala/code/model/User.scala\:src/main/scala/code/lib/DependencyFactory.scala\:src/main/scala/code/snippet/HelloWorld.scala
+/Users/readman/Desktop/lift_basic/lib_managed/scala_2.9.0-1/compile/lift-proto_2.9.0-1-2.4.jar=src/main/scala/bootstrap/liftweb/Boot.scala\:src/main/scala/code/model/User.scala
+/System/Library/Java/JavaVirtualMachines/1.6.0.jdk/Contents/Classes/classes.jar=src/main/scala/bootstrap/liftweb/Boot.scala\:src/main/scala/code/model/User.scala\:src/main/scala/code/lib/DependencyFactory.scala\:src/main/scala/code/snippet/HelloWorld.scala
